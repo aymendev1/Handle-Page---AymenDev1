@@ -1,0 +1,23 @@
+@media only screen and (max-width: 375px) {
+  section .col-md-6 {
+    margin-top: 10vmin;
+  }
+  .content-col {
+    align-items: center;
+  }
+  section .col-md-6 h1 {
+    font-size: 1.5em;
+    text-align: center;
+  }
+  section .col-md-6 p {
+    text-align: center;
+  }
+  .btn-register {
+    text-align: center;
+    margin-bottom: 5vmin;
+  }
+  .buttons-social-media {
+    margin-top: 5vmin;
+    text-align: center;
+  }
+}
